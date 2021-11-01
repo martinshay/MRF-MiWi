@@ -136,7 +136,7 @@ Alternatively, the configuration can also be set by a pull down menu on MPLAB X 
 
 - This is a wireless UART application based upon MRF MiWi P2P. Two nodes are used in this application.
 
-- Supports 8-Bit Wireless Development Kit
+- Supports 8-Bit Wireless Development Kit with PIC18F46J50 as host MCU
 
 - To test this application, open a terminal for both the nodes. On entering text in the terminal, the data is transmitted from one Node to another node.
 
@@ -149,11 +149,11 @@ Alternatively, the configuration can also be set by a pull down menu on MPLAB X 
 
 This project demonstrates MRF MiWi P2P functions on various MCU EVBs.
 
-- 8-Bit Wireless Development Kit
-- PICDEM™ PIC18 Explorer Demonstration Board
-- Explorer 16 Development Board
-- MiWi™ Demo Kit
-- PICDEM™ Z Demonstration Kit
+- 8-Bit Wireless Development Kit with PIC18F46J50 as host MCU
+- PICDEM™ PIC18 Explorer Demonstration Board with PIC16F1947 and PIC18F87J11 as host MCU
+- Explorer 16 Development Board with PIC24FJ128GA010 as host MCU
+- MiWi™ Demo Kit with PIC18F46J50 as host MCU
+- PICDEM™ Z Demonstration Kit with PIC18F4620 as host MCU
 
 
 ### Simple Example Star<a name="step5c"></a>
@@ -162,8 +162,8 @@ This project demonstrates MRF MiWi P2P functions on various MCU EVBs.
 
 This project demonstrates MRF MiWi Star functions on various MCU EVBs.
 
-- 8-Bit Wireless Development Kit
-- PICDEM™ PIC18 Explorer Demonstration Board
-- Explorer 16 Development Board
-- MiWi™ Demo Kit
-- PICDEM™ Z Demonstration Kit
+- 8-Bit Wireless Development Kit with PIC18F46J50 as host MCU
+- PICDEM™ PIC18 Explorer Demonstration Board with PIC16F1947 and PIC18F87J11 as host MCU
+- Explorer 16 Development Board with PIC24FJ128GA010 as host MCU
+- MiWi™ Demo Kit with PIC18F46J50 as host MCU
+- PICDEM™ Z Demonstration Kit with PIC18F4620 as host MCU
