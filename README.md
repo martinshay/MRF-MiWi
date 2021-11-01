@@ -149,6 +149,12 @@ Alternatively, the configuration can also be set by a pull down menu on MPLAB X 
 
 This project demonstrates MRF MiWi P2P functions on various MCU EVBs.
 
+- 8-Bit Wireless Development Kit
+- PICDEM™ PIC18 Explorer Demonstration Board
+- Explorer 16 Development Board
+- MiWi™ Demo Kit
+- PICDEM™ Z Demonstration Kit
+
 
 ### Simple Example Star<a name="step5c"></a>
 
@@ -156,3 +162,8 @@ This project demonstrates MRF MiWi P2P functions on various MCU EVBs.
 
 This project demonstrates MRF MiWi Star functions on various MCU EVBs.
 
+- 8-Bit Wireless Development Kit
+- PICDEM™ PIC18 Explorer Demonstration Board
+- Explorer 16 Development Board
+- MiWi™ Demo Kit
+- PICDEM™ Z Demonstration Kit
